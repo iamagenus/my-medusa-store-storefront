@@ -33,6 +33,9 @@ export default async function Footer() {
             >
               R&L Attachments
             </LocalizedClientLink>
+            <Text>482 Bessemer Rd</Text>
+            <Text>Mount Pleasant, PA 15666</Text>
+
           </div>
           <div className="text-small-regular gap-10 md:gap-x-16 grid grid-cols-2 sm:grid-cols-3">
             {productCategories && productCategories?.length > 0 && (
